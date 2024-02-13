@@ -1,8 +1,6 @@
 ![MasterHead](https://www.sammobile.com/wp-content/uploads/2023/09/Android-14-Logo-New.jpg)
 <h1 align="center">Hi 👋, I'm Praharsh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praharshsingh07&label=Profile%20views&color=0e75b6&style=flat" alt="praharshsingh07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praharshsingh07" alt="praharshsingh07" /></a> </p>
