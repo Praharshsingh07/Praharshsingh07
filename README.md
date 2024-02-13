@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sammobile.com/wp-content/uploads/2023/09/Android-14-Logo-New.jpg)
+![MasterHead](https://www.sammobile.com/wp-content/uploads/2023/09/Android-14-Logo-New.jpg)
 <h1 align="center">Hi 👋, I'm Praharsh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
