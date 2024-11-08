@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Self Driving RC car](https://github.com/Praharshsingh07/Self_Driving_car.git)
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **Springboot And Docker**
 
 - 👯 I’m looking to collaborate on [Self driving Rc Car](https://github.com/Praharshsingh07/Self_Driving_car.git)
 
